@@ -4,24 +4,11 @@ title: "Min fina titel"
 Min me-sida i kursen oophp
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/jag.jpg?w=400&a=4,27,11,25&cf&sharpen" class="right" caption="Bild på mig, på en båt i Alanya år 2012."]
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+Mitt namn är Frida Lindgren, jag är 27 år gammal och är född i Hudiksvall som ligger i Hälsingland. Jag har sedan bott i Uppsala i fem år och 
+nu bor jag i Gävle sedan ett halvår tillbaka med min sambo Daniel och våra två hundar Lego och Pussel. Innan jag flyttade till Uppsala jobbade 
+jag i sjukhusköket i Hudiksvall, sedan började jag på programmet molekylärbiologi i Uppsala. Jag är väldigt intresserad av djur och natur men 
+ändå märkte jag efter ett år på programmet att det var nog inget för mig. Jag valde att prova något helt nytt och det blev webbdesign och jag tyckte det var jätteroligt. Jag kom in på programmet Webbprogrammering hösten 2018 och trivs jättebra! Tycker det är roligt att få dyka ner lite mer i programmering och hittills är det roligt, väldigt svårt men roligt.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
-
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
-
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+När jag inte studerar tränar jag gärna med mina hundar. Vi tränar lydnad och det är fantastiskt roligt, otroligt mycket detaljer att peta med vilket jag älskar. Det är en oslagbar känsla att stiga på tävlingsplanen tillsammans med sin hund och köra som ett team. Både jag och hundarna älskar det.

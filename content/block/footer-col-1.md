@@ -1,3 +1,3 @@
-#### Footer col 1
+#### Gitter
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Det finns en gitter chatt för denna kursen som du kommer till om du klickar [HÄR](https://gitter.im/mosbth/oophp).

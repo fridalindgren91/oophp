@@ -1,3 +1,3 @@
-#### Footer col 3
+#### Frida Lindgren
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+fridalindgren_@outlook.com

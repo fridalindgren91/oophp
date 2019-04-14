@@ -1,3 +1,3 @@
-#### Footer col 2
+#### Kursforum
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Kursens forum kommer du till om du klickar [HÄR](https://dbwebb.se/forum/viewforum.php?f=37&sid=5d1c6ccea831152c022354e70f9f0e92).

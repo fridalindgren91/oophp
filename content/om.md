@@ -19,10 +19,6 @@ views:
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+Detta är kursen Objektorienterade webbteknologier (oophp) där vi får jobba lite mer med objektorienterad PHP.
 
-Skriv några kloka ord om kursen?
-
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
-
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/dogs.jpg?w=500&h=500&a=4,6,11,20&filter=grayscale caption="Mina hundar får vara med här."]
