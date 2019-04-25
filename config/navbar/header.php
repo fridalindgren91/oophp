@@ -44,6 +44,11 @@ return [
             "title" => "Välj stylesheet.",
         ],
         [
+            "text" => "Guess game",
+            "url" => "guess-game",
+            "title" => "Guess game",
+        ],
+        [
             "text" => "Docs",
             "url" => "dokumentation",
             "title" => "Dokumentation av ramverk och liknande.",
