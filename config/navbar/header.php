@@ -49,6 +49,11 @@ return [
             "title" => "Guess game",
         ],
         [
+            "text" => "Dicegame 100",
+            "url" => "dice100",
+            "title" => "Dicegame 100",
+        ],
+        [
             "text" => "Docs",
             "url" => "dokumentation",
             "title" => "Dokumentation av ramverk och liknande.",
