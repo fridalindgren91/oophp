@@ -63,3 +63,5 @@ namespace Anax\View;
 <form method="post" action="restart">
     <input type="submit" value="Starta om" style="width: 180px">
 </form>
+
+<p><?= $serie ?></p>

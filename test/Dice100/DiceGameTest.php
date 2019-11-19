@@ -46,4 +46,34 @@ class DiceGameTest extends TestCase
         $this->assertGreaterThan(0, $res);
         $this->assertLessThan(7, $res);
     }
+
+    public function testSimulateComputerRound()
+    {
+        $game = new Dice100();
+        $game->simulateComputerRound();
+        $this->assertNotEmpty($game->num);
+    }
+
+    public function testPrintHistogramWithNum()
+    {
+        $dice = new Dice();
+        $recievedRes = $dice->printHistogram(2, 4);
+        $expectedRes = "<br>" . "2: " . "<br>" . "3: " . "<br>" . "4: " . "<br>";
+        $this->assertEquals($expectedRes, $recievedRes);
+    }
+
+    public function testPrintHistogram()
+    {
+        $dice = new Dice();
+        $dice->rollDice(4);
+        $recievedRes = $dice->printHistogram();
+        $this->assertEquals("4, " . "<br>" . "4: *" . "<br>", $recievedRes);
+    }
+
+    public function testGetHistogramSerie()
+    {
+        $dice = new Dice();
+        $recievedRes = $dice->getHistogramSerie();
+        $this->assertEquals([], $recievedRes);
+    }
 }
