@@ -1,0 +1,12 @@
+.thumb {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+td {
+    padding: 40px;
+}
+
+.deleteMovie a {
+    text-decoration: none;
+}
