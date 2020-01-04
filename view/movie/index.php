@@ -6,7 +6,7 @@ if (!$resultset) {
 }
 
 ?>
-<h3>Filmer</h2>
+<h3>Filmer</h3>
 <a href="<?= url("movie") ?>">Visa alla filmer</a><br>
 <a href="<?= url("movie/addPage") ?>">Lägg till film</a><br>
 <a href="<?= url("movie/reset") ?>">Återställ</a><br><br>
@@ -29,7 +29,7 @@ if (!$resultset) {
     </fieldset>
 </form><br>
 
-<table>
+<table class="movie">
     <tr class="first">
         <th>Rad</th>
         <th>Id</th>

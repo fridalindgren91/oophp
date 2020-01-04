@@ -3,10 +3,23 @@
     max-height: 200px;
 }
 
-td {
+.blog td {
+    padding: 15px !important;
+}
+
+.movie td {
     padding: 40px;
 }
 
 .deleteMovie a {
     text-decoration: none;
+}
+
+.blog-menu a {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.blog-menu a:hover{
+    font-size: 17px;
 }
